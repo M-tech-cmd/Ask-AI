@@ -21,3 +21,4 @@ User-Friendly Interface: Easy to use and navigate.
 Real-Time Responses: Get answers quickly and efficiently.
 
 Customizable: Easily adaptable to different use cases and requirements.
+![image alt](https://github.com/M-tech-cmd/Ask-AI/blob/a6083ea1f636364ee407cd9b8eab827e75c07169/Screenshot_11-12-2024_222149_127.0.0.1.jpeg)
