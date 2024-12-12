@@ -1,6 +1,7 @@
 # Ask-AI
 Welcome to Ask AI! This project is an AI-powered tool designed to answer your questions and provide insightful responses. Similar to ChatGPT
 Ask AI leverages advanced natural language processing to understand and respond to your queries in real time. We aim to offer a user-friendly and efficient AI assistant that can help with various topics.
+M-tech-cmd.github.io/Ask-AI/
 
 Languages and Technologies Used:
 
